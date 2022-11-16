@@ -1,8 +1,5 @@
 # UNIX/Linux operating systems (Basic).
 
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/kheFQ1M3D27UeyeC9)
-
 Linux system installation and updates. Administration basics.
 
 The russian version of the task can be found in the repository.
@@ -344,3 +341,6 @@ Do you want to learn how to work in VIM?
 
 ##### Remove all tasks from the job scheduler.
 - Add a screenshot of the list of current tasks for CRON to the report.
+
+
+💡 [Tap here](https://forms.yandex.ru/u/6357f435c09c02345cf48f1a/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
